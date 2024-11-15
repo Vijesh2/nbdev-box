@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-box"
+  site-url: "https://Vijesh2.github.io/nbdev-box"
+  description: "Another go at an nbdev project"
+  repo-branch: main
+  repo-url: "https://github.com/Vijesh2/nbdev-box"
